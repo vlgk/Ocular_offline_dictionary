@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iPod</key>
+	<string>mobilul, n</string>
+	<key>dial telephone, dial phone</key>
+	<string>telefonul, n</string>
+	<key>desktop computer</key>
+	<string>computerul, m</string>
+	<key>laptop, laptop computer</key>
+	<string>laptopul, m</string>
+	<key>monitor</key>
+	<string>ecranul, n</string>
+	<key>computer keyboard, keypad</key>
+	<string>tastatură, f</string>
+	<key>mouse, computer mouse</key>
+	<string>șoarece, m</string>
+	<key>modem</key>
+	<string>Wi(-)Fi, n</string>
+	<key>printer</key>
+	<string>imprimantă, f</string>
+	<key>television, television system</key>
+	<string>televizorul, n</string>
+	<key>remote control, remote</key>
+	<string>telecomandă, f</string>
+	<key>reflex camera</key>
+	<string>aparat de fotografiat, n</string>
+	<key>radio, wireless</key>
+	<string>radioul, n</string>
+	<key>hand blower, blow dryer, blow drier, hair dryer, hair drier</key>
+	<string>uscător de păr, n</string>
+	<key>sewing machine</key>
+	<string>mașină de cusut, f</string>
+	<key>vacuum, vacuum cleaner</key>
+	<string>aspirator, n</string>
+	<key>iron, smoothing iron</key>
+	<string>fier de călcat, n</string>
+	<key>espresso maker</key>
+	<string>mașină de cafia, f</string>
+	<key>washer, automatic washer, washing machine</key>
+	<string>mașină de spălat, f</string>
+	<key>refrigerator, icebox</key>
+	<string>frigider, n</string>
+	<key>teapot</key>
+	<string>fierbător de apă, n</string>
+	<key>stove</key>
+	<string>aragaz, n</string>
+	<key>microwave, microwave oven</key>
+	<string>microundă, f</string>
+	<key>toaster</key>
+	<string>prăjitor, n</string>
+	<key>scale, weighing machine</key>
+	<string>cântar, n</string>
+	<key>lampshade, lamp shade</key>
+	<string>bec, n</string>
+	<key>bassinet</key>
+	<string>cărucior pentru copii, n</string>
+	<key>mountain bike, all-terrain bike, off-roader</key>
+	<string>bicicletă, f</string>
+	<key>moped</key>
+	<string>moped, n</string>
+	<key>motor scooter, scooter</key>
+	<string>moped, n</string>
+	<key>limousin, limo</key>
+	<string>automobilul, n</string>
+	<key>sports car, sport car</key>
+	<string>automobilul, n</string>
+	<key>minivan</key>
+	<string>automobilul, n</string>
+	<key>jeep, landrover</key>
+	<string>automobilul, n</string>
+	<key>cab, hack, taxi, taxicab</key>
+	<string>taxi, n</string>
+	<key>school bus</key>
+	<string>autobuz, n</string>
+	<key>minibus</key>
+	<string>autobuz, n</string>
+	<key>trolleybus, trolley coach, trackless trolley</key>
+	<string>tramvai, n</string>
+	<key>bullet train, bullet</key>
+	<string>trenul, n</string>
+	<key>steam locomotive</key>
+	<string>trenul, n</string>
+	<key>electric locomotive</key>
+	<string>trenul, n</string>
+	<key>airliner</key>
+	<string>avionul, n</string>
+	<key>liner, ocean liner</key>
+	<string>vaporul, n</string>
+	<key>schooner</key>
+	<string>vaporul, n</string>
+	<key>canoe</key>
+	<string>barcă, f</string>
+	<key>speedboat</key>
+	<string>barcă, f</string>
+	<key>traffic light, traffic signal, stoplight</key>
+	<string>semafor, n</string>
+	<key>gas pump, gasoline pump, petrol pump, island dispenser</key>
+	<string>benzinărie, f</string>
+	<key>castle</key>
+	<string>castel, f</string>
+	<key>cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM</key>
+	<string>bancomat, n</string>
+	<key>menu</key>
+	<string>meniu, n</string>
+	<key>pop bottle, soda bottle</key>
+	<string>doză, f</string>
+	<key>water bottle</key>
+	<string>sticlă, f</string>
+	<key>coffee mug</key>
+	<string>ceașcă, f</string>
+	<key>cup</key>
+	<string>ceașcă, f</string>
+	<key>beer glass</key>
+	<string>păharul, n</string>
+	<key>coffeepot</key>
+	<string>cafetieră, f</string>
+	<key>mixing bowl</key>
+	<string>farfurie, f</string>
+	<key>plate</key>
+	<string>farfurie, f</string>
+	<key>ladle</key>
+	<string>lingură, f</string>
+	<key>spatula</key>
+	<string>furculiță, f</string>
+	<key>cleaver, meat cleaver, chopper</key>
+	<string>cuțit, n</string>
+	<key>letter opener, paper knife, paperknife</key>
+	<string>cuțit, n</string>
+	<key>frying pan, frypan, skillet</key>
+	<string>tigaie, f</string>
+	<key>wok</key>
+	<string>tigaie, f</string>
+	<key>Crock Pot</key>
+	<string>oală, f</string>
+	<key>french loaf</key>
+	<string>chiflă, f</string>
+	<key>bagel, beigel</key>
+	<string>chiflă, f</string>
+	<key>Granny Smith</key>
+	<string>măr, n</string>
+	<key>banana</key>
+	<string>banană, f</string>
+	<key>beer bottle</key>
+	<string>bere, f</string>
+	<key>butcher shop, meat market</key>
+	<string>carne, f</string>
+	<key>carbonara</key>
+	<string>macaroane, pl</string>
+	<key>lemon</key>
+	<string>lămâie, f</string>
+	<key>cucumber, cuke</key>
+	<string>castravete, m</string>
+	<key>bell pepper</key>
+	<string>ardei, m</string>
+	<key>broccoli</key>
+	<string>broccoli, m</string>
+	<key>pizza, pizza pie</key>
+	<string>pizza, f</string>
+	<key>zucchini, courgette</key>
+	<string>dovlecel, n</string>
+	<key>coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch</key>
+	<string>pește, m</string>
+	<key>goldfish, Carassius auratus</key>
+	<string>pește, m</string>
+	<key>orange</key>
+	<string>portocală, f</string>
+	<key>head cabbage</key>
+	<string>varză, f</string>
+	<key>red wein</key>
+	<string>vin, n</string>
+	<key>corn</key>
+	<string>porumb, m</string>
+	<key>bakery, bakeshop, bakehouse</key>
+	<string>tort, n</string>
+	<key>cheeseburger</key>
+	<string>hamburger, m</string>
+	<key>pretzel</key>
+	<string>covrig, m</string>
+	<key>pomegranate</key>
+	<string>rodie, f</string>
+	<key>ice cream, icecream</key>
+	<string>înghețată, f</string>
+	<key>pineapple, ananas</key>
+	<string>ananas, m</string>
+	<key>strawberry</key>
+	<string>căpșună, f</string>
+	<key>mushroom</key>
+	<string>ciupercă, f</string>
+	<key>fig</key>
+	<string>smochină, f</string>
+	<key>daisy</key>
+	<string>floare, f</string>
+	<key>pot, flowerpot</key>
+	<string>ghiveci de flori, n</string>
+	<key>vase</key>
+	<string>vază, f</string>
+	<key>folding chair</key>
+	<string>scaun, n</string>
+	<key>desk</key>
+	<string>masă, f</string>
+	<key>studio couch, day bed</key>
+	<string>canapea, f</string>
+	<key>rocking chair, rocker</key>
+	<string>fotoliu, n</string>
+	<key>barber chair</key>
+	<string>fotoliu, n</string>
+	<key>wardrobe, closet, press</key>
+	<string>dulap, n</string>
+	<key>bookcase</key>
+	<string>raft, n</string>
+	<key>chiffonier, commode</key>
+	<string>comodă, f</string>
+	<key>doormat, welcome mat</key>
+	<string>covor, n</string>
+	<key>table lamp</key>
+	<string>lampă, f</string>
+	<key>spotlight, spot</key>
+	<string>lampă cu picior, f</string>
+	<key>digital clock</key>
+	<string>ceas deșteptător, n</string>
+	<key>analog clock</key>
+	<string>ceas deșteptător, n</string>
+	<key>bucket, pail</key>
+	<string>găleată, f</string>
+	<key>hook, claw</key>
+	<string>cârlig, n</string>
+	<key>window shade</key>
+	<string>cortină, f</string>
+	<key>theater curtain, theatre curtain</key>
+	<string>cortină, f</string>
+	<key>bathtub, bathing tub, bath, tub</key>
+	<string>vană, f</string>
+	<key>shower curtain</key>
+	<string>perdea de duș, f</string>
+	<key>washbasin, handbasin, washbowl, lavabo, wash-hand basin</key>
+	<string>lavoar, n</string>
+	<key>toilet seat</key>
+	<string>closet, n</string>
+	<key>toilet tissue, toilet paper, bathroom tissue</key>
+	<string>hârtie igienică, f</string>
+	<key>soap dispenser</key>
+	<string>săpun, n</string>
+	<key>upright, upright piano</key>
+	<string>pian, n</string>
+	<key>grand piano, grand</key>
+	<string>pian, n</string>
+	<key>sliding door</key>
+	<string>ușa, f</string>
+	<key>radiator</key>
+	<string>calorifer, n</string>
+	<key>bannister, banister, balustrade, balusters, handrail</key>
+	<string>scară, f</string>
+	<key>mountain tent</key>
+	<string>cort, n</string>
+	<key>soccer ball</key>
+	<string>minge, f</string>
+	<key>tennis ball</key>
+	<string>minge, f</string>
+	<key>golf ball</key>
+	<string>minge, f</string>
+	<key>ping-pong ball</key>
+	<string>minge, f</string>
+	<key>umbrella</key>
+	<string>umbrelă, f</string>
+	<key>candle, taper, wax light</key>
+	<string>lumânare, f</string>
+	<key>lighter, light, igniter, ignitor</key>
+	<string>brichetă, f</string>
+	<key>pill bottle</key>
+	<string>tabletă, f</string>
+	<key>Band Aid</key>
+	<string>plasture, m</string>
+	<key>necklace</key>
+	<string>colier, n</string>
+	<key>perfume, essence</key>
+	<string>parfum, n</string>
+	<key>sunglass</key>
+	<string>ochelari, pl</string>
+	<key>sunglasses, dark glasses, shades</key>
+	<string>ochelari, pl</string>
+	<key>wallet, billfold, notecase, pocketbook</key>
+	<string>portmoneu, n</string>
+	<key>purse</key>
+	<string>portmoneu, n</string>
+	<key>digital watch</key>
+	<string>ceasuri de mână, pl</string>
+	<key>lipstick, lip rouge</key>
+	<string>ruj, n</string>
+	<key>paper towel</key>
+	<string>batistă, f</string>
+	<key>envelope</key>
+	<string>scrisoare, f</string>
+	<key>packet</key>
+	<string>pachet, n</string>
+	<key>ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin</key>
+	<string>coș, n</string>
+	<key>carton</key>
+	<string>carton, n</string>
+	<key>ballpoint, ballpoint pen, ballpen, Biro</key>
+	<string>pix, n</string>
+	<key>rule, ruler</key>
+	<string>riglă, f</string>
+	<key>pencil sharpener</key>
+	<string>ascuțitoare, f</string>
+	<key>rubber eraser, rubber, pencil eraser</key>
+	<string>radieră, f</string>
+	<key>backpack, back pack, knapsack, packsack, rucksack, haversack</key>
+	<string>rucsac, n</string>
+	<key>mailbag, postbag</key>
+	<string>geantă, f</string>
+	<key>fur coat</key>
+	<string>geacă, f</string>
+	<key>cardigan</key>
+	<string>geacă, f</string>
+	<key>trench coat</key>
+	<string>manta, f</string>
+	<key>sweatshirt</key>
+	<string>pulover, n</string>
+	<key>jean, blue jean, denim</key>
+	<string>pantalon, m</string>
+	<key>overskirt</key>
+	<string>fustă, f</string>
+	<key>jersey, T-shirt, tee shirt</key>
+	<string>tricou, n</string>
+	<key>wool, woolen, woollen</key>
+	<string>căciulă, f</string>
+	<key>mitten</key>
+	<string>mănușă, f</string>
+	<key>sock</key>
+	<string>șosetă, f</string>
+	<key>running shoe</key>
+	<string>adidași, pl</string>
+	<key>sandal</key>
+	<string>sandală, f</string>
+	<key>Loafer</key>
+	<string>papuci, pl</string>
+	<key>cowboy boot</key>
+	<string>cizmă, f</string>
+	<key>chickadee</key>
+	<string>pasăre, f</string>
+	<key>magpie</key>
+	<string>pasăre, f</string>
+	<key>black grouse</key>
+	<string>pasăre, f</string>
+	<key>hen</key>
+	<string>găină, f</string>
+	<key>rotisserie</key>
+	<string>găină, f</string>
+	<key>drake</key>
+	<string>rață, f</string>
+	<key>macaque</key>
+	<string>maimuță, f</string>
+	<key>chimpanzee, chimp, Pan troglodytes</key>
+	<string>maimuță, f</string>
+	<key>ox</key>
+	<string>vacă, f</string>
+	<key>sorrel</key>
+	<string>cal, m</string>
+	<key>ram, tup</key>
+	<string>oaie, f</string>
+	<key>tabby, tabby cat</key>
+	<string>pisică, f</string>
+	<key>Siamese cat, Siamese</key>
+	<string>pisică, f</string>
+	<key>Egyptian cat</key>
+	<string>pisică, f</string>
+	<key>Persian cat</key>
+	<string>pisică, f</string>
+	<key>Pembroke, Pembroke Welsh corgi</key>
+	<string>câine, m</string>
+	<key>Cardigan, Cardigan Welsh corgi</key>
+	<string>câine, m</string>
+	<key>toy poodle</key>
+	<string>câine, m</string>
+	<key>miniature poodle</key>
+	<string>câine, m</string>
+	<key>standard poodle</key>
+	<string>câine, m</string>
+	<key>chow, chow chow</key>
+	<string>câine, m</string>
+	<key>Pomeranian</key>
+	<string>câine, m</string>
+	<key>Eskimo dog, husky</key>
+	<string>câine, m</string>
+	<key>boxer</key>
+	<string>câine, m</string>
+	<key>bull mastiff</key>
+	<string>câine, m</string>
+	<key>Tibetan mastiff</key>
+	<string>câine, m</string>
+	<key>French bulldog</key>
+	<string>câine, m</string>
+	<key>Great Dane</key>
+	<string>câine, m</string>
+	<key>Saint Bernard, St Bernard</key>
+	<string>câine, m</string>
+	<key>malamute, malemute, Alaskan malamute</key>
+	<string>câine, m</string>
+	<key>Siberian husky</key>
+	<string>câine, m</string>
+	<key>dalmatian, coach dog, carriage dog</key>
+	<string>câine, m</string>
+	<key>affenpinscher, monkey pinscher, monkey dog</key>
+	<string>câine, m</string>
+	<key>basenji</key>
+	<string>câine, m</string>
+	<key>pug, pug-dog</key>
+	<string>câine, m</string>
+	<key>Leonberg</key>
+	<string>câine, m</string>
+	<key>Newfoundland, Newfoundland dog</key>
+	<string>câine, m</string>
+	<key>golden retriever</key>
+	<string>câine, m</string>
+	<key>Samoyed, Samoyede</key>
+	<string>câine, m</string>
+	<key>German shepherd, German shepherd dog, German police dog, alsatian</key>
+	<string>câine, m</string>
+	<key>Rottweiler</key>
+	<string>câine, m</string>
+	<key>Border collie</key>
+	<string>câine, m</string>
+	<key>collie</key>
+	<string>câine, m</string>
+	<key>cocker spaniel, English cocker spaniel, cocker</key>
+	<string>câine, m</string>
+	<key>Labrador retriever</key>
+	<string>câine, m</string>
+	<key>Maltese dog, Maltese terrier, Maltese</key>
+	<string>câine, m</string>
+	<key>Pekinese, Pekingese, Peke</key>
+	<string>câine, m</string>
+	<key>toy terrier</key>
+	<string>câine, m</string>
+</dict>
+</plist>

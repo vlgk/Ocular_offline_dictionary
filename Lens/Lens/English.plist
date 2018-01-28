@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iPod</key>
+	<string>mobile phone</string>
+	<key>dial telephone, dial phone</key>
+	<string>dial telephone</string>
+	<key>desktop computer</key>
+	<string>desktop computer</string>
+	<key>laptop, laptop computer</key>
+	<string>laptop</string>
+	<key>monitor</key>
+	<string>monitor</string>
+	<key>computer keyboard, keypad</key>
+	<string>computer keyboard</string>
+	<key>mouse, computer mouse</key>
+	<string>computer mouse</string>
+	<key>modem</key>
+	<string>modem</string>
+	<key>printer</key>
+	<string>printer</string>
+	<key>television, television system</key>
+	<string>TV</string>
+	<key>remote control, remote</key>
+	<string>remote control</string>
+	<key>reflex camera</key>
+	<string>digital camera</string>
+	<key>radio, wireless</key>
+	<string>radio</string>
+	<key>hand blower, blow dryer, blow drier, hair dryer, hair drier</key>
+	<string>hair dryer</string>
+	<key>sewing machine</key>
+	<string>sewing machine</string>
+	<key>vacuum, vacuum cleaner</key>
+	<string>vacuum cleaner</string>
+	<key>iron, smoothing iron</key>
+	<string>smoothing iron</string>
+	<key>espresso maker</key>
+	<string>coffee maker</string>
+	<key>washer, automatic washer, washing machine</key>
+	<string>washing machine</string>
+	<key>refrigerator, icebox</key>
+	<string>fridge</string>
+	<key>teapot</key>
+	<string>teapot</string>
+	<key>stove</key>
+	<string>stove</string>
+	<key>microwave, microwave oven</key>
+	<string>microwave</string>
+	<key>toaster</key>
+	<string>toaster</string>
+	<key>scale, weighing machine</key>
+	<string>scale</string>
+	<key>lampshade, lamp shade</key>
+	<string>(light) bulb</string>
+	<key>bassinet</key>
+	<string>baby carriage</string>
+	<key>mountain bike, all-terrain bike, off-roader</key>
+	<string>bike</string>
+	<key>moped</key>
+	<string>moped</string>
+	<key>motor scooter, scooter</key>
+	<string>moped</string>
+	<key>limousin, limo</key>
+	<string>car</string>
+	<key>sports car, sport car</key>
+	<string>car</string>
+	<key>minivan</key>
+	<string>car</string>
+	<key>jeep, landrover</key>
+	<string>car</string>
+	<key>cab, hack, taxi, taxicab</key>
+	<string>taxi</string>
+	<key>school bus</key>
+	<string>bus</string>
+	<key>minibus</key>
+	<string>bus</string>
+	<key>trolleybus, trolley coach, trackless trolley</key>
+	<string>tram</string>
+	<key>bullet train, bullet</key>
+	<string>train</string>
+	<key>steam locomotive</key>
+	<string>train</string>
+	<key>electric locomotive</key>
+	<string>train</string>
+	<key>airliner</key>
+	<string>airplane</string>
+	<key>liner, ocean liner</key>
+	<string>ship</string>
+	<key>schooner</key>
+	<string>ship</string>
+	<key>canoe</key>
+	<string>boat</string>
+	<key>speedboat</key>
+	<string>boat</string>
+	<key>traffic light, traffic signal, stoplight</key>
+	<string>traffic light</string>
+	<key>gas pump, gasoline pump, petrol pump, island dispenser</key>
+	<string>gas station</string>
+	<key>castle</key>
+	<string>castle</string>
+	<key>cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM</key>
+	<string>cash machine, ATM</string>
+	<key>menu</key>
+	<string>menu</string>
+	<key>pop bottle, soda bottle</key>
+	<string>can</string>
+	<key>water bottle</key>
+	<string>bottle</string>
+	<key>coffee mug</key>
+	<string>cup</string>
+	<key>cup</key>
+	<string>cup</string>
+	<key>beer glass</key>
+	<string>glass</string>
+	<key>coffeepot</key>
+	<string>coffeepot</string>
+	<key>mixing bowl</key>
+	<string>plate</string>
+	<key>plate</key>
+	<string>plate</string>
+	<key>ladle</key>
+	<string>spoon</string>
+	<key>spatula</key>
+	<string>fork</string>
+	<key>cleaver, meat cleaver, chopper</key>
+	<string>chopper, knife</string>
+	<key>letter opener, paper knife, paperknife</key>
+	<string>chopper, knife</string>
+	<key>frying pan, frypan, skillet</key>
+	<string>pan</string>
+	<key>wok</key>
+	<string>pan</string>
+	<key>Crock Pot</key>
+	<string>pot</string>
+	<key>french loaf</key>
+	<string>bun</string>
+	<key>bagel, beigel</key>
+	<string>bun</string>
+	<key>Granny Smith</key>
+	<string>apple</string>
+	<key>banana</key>
+	<string>banana</string>
+	<key>beer bottle</key>
+	<string>beer</string>
+	<key>butcher shop, meat market</key>
+	<string>meat</string>
+	<key>carbonara</key>
+	<string>pasta</string>
+	<key>lemon</key>
+	<string>lemon</string>
+	<key>cucumber, cuke</key>
+	<string>cucumber</string>
+	<key>bell pepper</key>
+	<string>bell pepper</string>
+	<key>broccoli</key>
+	<string>broccoli</string>
+	<key>pizza, pizza pie</key>
+	<string>pizza</string>
+	<key>zucchini, courgette</key>
+	<string>zucchini</string>
+	<key>coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch</key>
+	<string>fish</string>
+	<key>goldfish, Carassius auratus</key>
+	<string>fish</string>
+	<key>orange</key>
+	<string>orange</string>
+	<key>head cabbage</key>
+	<string>head cabbage</string>
+	<key>red wein</key>
+	<string>wine</string>
+	<key>corn</key>
+	<string>corn</string>
+	<key>bakery, bakeshop, bakehouse</key>
+	<string>tart</string>
+	<key>cheeseburger</key>
+	<string>burger</string>
+	<key>pretzel</key>
+	<string>pretzel</string>
+	<key>pomegranate</key>
+	<string>pomegranate</string>
+	<key>ice cream, icecream</key>
+	<string>ice cream</string>
+	<key>pineapple, ananas</key>
+	<string>pineapple</string>
+	<key>strawberry</key>
+	<string>strawberry</string>
+	<key>mushroom</key>
+	<string>mushroom</string>
+	<key>fig</key>
+	<string>fig</string>
+	<key>daisy</key>
+	<string>flower</string>
+	<key>pot, flowerpot</key>
+	<string>flowerpot</string>
+	<key>vase</key>
+	<string>vase</string>
+	<key>folding chair</key>
+	<string>chair</string>
+	<key>desk</key>
+	<string>table</string>
+	<key>studio couch, day bed</key>
+	<string>couch</string>
+	<key>rocking chair, rocker</key>
+	<string>armchair</string>
+	<key>barber chair</key>
+	<string>armchair</string>
+	<key>wardrobe, closet, press</key>
+	<string>cupboard</string>
+	<key>bookcase</key>
+	<string>shelf</string>
+	<key>chiffonier, commode</key>
+	<string>commode</string>
+	<key>doormat, welcome mat</key>
+	<string>carpet</string>
+	<key>table lamp</key>
+	<string>lamp</string>
+	<key>spotlight, spot</key>
+	<string>floor lamp</string>
+	<key>digital clock</key>
+	<string>alarm clock</string>
+	<key>analog clock</key>
+	<string>alarm clock</string>
+	<key>bucket, pail</key>
+	<string>bucket</string>
+	<key>hook, claw</key>
+	<string>hook</string>
+	<key>window shade</key>
+	<string>curtain</string>
+	<key>theater curtain, theatre curtain</key>
+	<string>curtain</string>
+	<key>bathtub, bathing tub, bath, tub</key>
+	<string>bathtub</string>
+	<key>shower curtain</key>
+	<string>shower curtain</string>
+	<key>washbasin, handbasin, washbowl, lavabo, wash-hand basin</key>
+	<string>washbasin</string>
+	<key>toilet seat</key>
+	<string>toilet seat</string>
+	<key>toilet tissue, toilet paper, bathroom tissue</key>
+	<string>toilet tissue</string>
+	<key>soap dispenser</key>
+	<string>soap</string>
+	<key>upright, upright piano</key>
+	<string>piano</string>
+	<key>grand piano, grand</key>
+	<string>piano</string>
+	<key>sliding door</key>
+	<string>door</string>
+	<key>radiator</key>
+	<string>radiator</string>
+	<key>bannister, banister, balustrade, balusters, handrail</key>
+	<string>staircase</string>
+	<key>mountain tent</key>
+	<string>tent</string>
+	<key>soccer ball</key>
+	<string>ball</string>
+	<key>tennis ball</key>
+	<string>ball</string>
+	<key>golf ball</key>
+	<string>ball</string>
+	<key>ping-pong ball</key>
+	<string>ball</string>
+	<key>umbrella</key>
+	<string>umbrella</string>
+	<key>candle, taper, wax light</key>
+	<string>candle</string>
+	<key>lighter, light, igniter, ignitor</key>
+	<string>lighter</string>
+	<key>pill bottle</key>
+	<string>pill</string>
+	<key>Band Aid</key>
+	<string>band aid</string>
+	<key>necklace</key>
+	<string>necklace</string>
+	<key>perfume, essence</key>
+	<string>perfume</string>
+	<key>sunglass</key>
+	<string>glasses</string>
+	<key>sunglasses, dark glasses, shades</key>
+	<string>glasses</string>
+	<key>wallet, billfold, notecase, pocketbook</key>
+	<string>wallet</string>
+	<key>purse</key>
+	<string>wallet</string>
+	<key>digital watch</key>
+	<string>watch</string>
+	<key>lipstick, lip rouge</key>
+	<string>lipstick</string>
+	<key>paper towel</key>
+	<string>paper towel</string>
+	<key>envelope</key>
+	<string>letter</string>
+	<key>packet</key>
+	<string>packet</string>
+	<key>ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin</key>
+	<string>trash bin</string>
+	<key>carton</key>
+	<string>carton</string>
+	<key>ballpoint, ballpoint pen, ballpen, Biro</key>
+	<string>ballpoint</string>
+	<key>rule, ruler</key>
+	<string>ruler</string>
+	<key>pencil sharpener</key>
+	<string>pencil sharpener</string>
+	<key>rubber eraser, rubber, pencil eraser</key>
+	<string>eraser</string>
+	<key>backpack, back pack, knapsack, packsack, rucksack, haversack</key>
+	<string>backpack</string>
+	<key>mailbag, postbag</key>
+	<string>bag</string>
+	<key>fur coat</key>
+	<string>jacket</string>
+	<key>cardigan</key>
+	<string>jacket</string>
+	<key>trench coat</key>
+	<string>coat</string>
+	<key>sweatshirt</key>
+	<string>sweatshirt</string>
+	<key>jean, blue jean, denim</key>
+	<string>trousers</string>
+	<key>overskirt</key>
+	<string>skirt</string>
+	<key>jersey, T-shirt, tee shirt</key>
+	<string>T-shirt</string>
+	<key>wool, woolen, woollen</key>
+	<string>cap</string>
+	<key>mitten</key>
+	<string>gloves</string>
+	<key>sock</key>
+	<string>sock</string>
+	<key>running shoe</key>
+	<string>sports shoe</string>
+	<key>sandal</key>
+	<string>sandal</string>
+	<key>Loafer</key>
+	<string>shoe</string>
+	<key>cowboy boot</key>
+	<string>boot</string>
+	<key>chickadee</key>
+	<string>bird</string>
+	<key>magpie</key>
+	<string>bird</string>
+	<key>black grouse</key>
+	<string>bird</string>
+	<key>hen</key>
+	<string>chicken</string>
+	<key>rotisserie</key>
+	<string>chicken</string>
+	<key>drake</key>
+	<string>duck</string>
+	<key>macaque</key>
+	<string>monkey</string>
+	<key>chimpanzee, chimp, Pan troglodytes</key>
+	<string>monkey</string>
+	<key>ox</key>
+	<string>cow</string>
+	<key>sorrel</key>
+	<string>horse</string>
+	<key>ram, tup</key>
+	<string>sheep</string>
+	<key>tabby, tabby cat</key>
+	<string>cat</string>
+	<key>Siamese cat, Siamese</key>
+	<string>cat</string>
+	<key>Egyptian cat</key>
+	<string>cat</string>
+	<key>Persian cat</key>
+	<string>cat</string>
+	<key>Pembroke, Pembroke Welsh corgi</key>
+	<string>dog</string>
+	<key>Cardigan, Cardigan Welsh corgi</key>
+	<string>dog</string>
+	<key>toy poodle</key>
+	<string>dog</string>
+	<key>miniature poodle</key>
+	<string>dog</string>
+	<key>standard poodle</key>
+	<string>dog</string>
+	<key>chow, chow chow</key>
+	<string>dog</string>
+	<key>Pomeranian</key>
+	<string>dog</string>
+	<key>Eskimo dog, husky</key>
+	<string>dog</string>
+	<key>boxer</key>
+	<string>dog</string>
+	<key>bull mastiff</key>
+	<string>dog</string>
+	<key>Tibetan mastiff</key>
+	<string>dog</string>
+	<key>French bulldog</key>
+	<string>dog</string>
+	<key>Great Dane</key>
+	<string>dog</string>
+	<key>Saint Bernard, St Bernard</key>
+	<string>dog</string>
+	<key>malamute, malemute, Alaskan malamute</key>
+	<string>dog</string>
+	<key>Siberian husky</key>
+	<string>dog</string>
+	<key>dalmatian, coach dog, carriage dog</key>
+	<string>dog</string>
+	<key>affenpinscher, monkey pinscher, monkey dog</key>
+	<string>dog</string>
+	<key>basenji</key>
+	<string>dog</string>
+	<key>pug, pug-dog</key>
+	<string>dog</string>
+	<key>Leonberg</key>
+	<string>dog</string>
+	<key>Newfoundland, Newfoundland dog</key>
+	<string>dog</string>
+	<key>golden retriever</key>
+	<string>dog</string>
+	<key>Samoyed, Samoyede</key>
+	<string>dog</string>
+	<key>German shepherd, German shepherd dog, German police dog, alsatian</key>
+	<string>dog</string>
+	<key>Rottweiler</key>
+	<string>dog</string>
+	<key>Border collie</key>
+	<string>dog</string>
+	<key>collie</key>
+	<string>dog</string>
+	<key>cocker spaniel, English cocker spaniel, cocker</key>
+	<string>dog</string>
+	<key>Labrador retriever</key>
+	<string>dog</string>
+	<key>Maltese dog, Maltese terrier, Maltese</key>
+	<string>dog</string>
+	<key>Pekinese, Pekingese, Peke</key>
+	<string>dog</string>
+	<key>toy terrier</key>
+	<string>dog</string>
+</dict>
+</plist>

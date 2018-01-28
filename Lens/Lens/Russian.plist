@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iPod</key>
+	<string>мобильный телефон, м.</string>
+	<key>dial telephone, dial phone</key>
+	<string>стационарный телефон, м.</string>
+	<key>desktop computer</key>
+	<string>стационарный компьютер, м.</string>
+	<key>laptop, laptop computer</key>
+	<string>ноутбук, м.</string>
+	<key>monitor</key>
+	<string>монитор, м.</string>
+	<key>computer keyboard, keypad</key>
+	<string>клавиатура, ж.</string>
+	<key>mouse, computer mouse</key>
+	<string>мышка, ж.</string>
+	<key>modem</key>
+	<string>роутер, м.</string>
+	<key>printer</key>
+	<string>принтер, м.</string>
+	<key>television, television system</key>
+	<string>телевизор, м.</string>
+	<key>remote control, remote</key>
+	<string>пульт, м.</string>
+	<key>reflex camera</key>
+	<string>фотоаппарат, м.</string>
+	<key>radio, wireless</key>
+	<string>радио, с.</string>
+	<key>hand blower, blow dryer, blow drier, hair dryer, hair drier</key>
+	<string>фен, м.</string>
+	<key>sewing machine</key>
+	<string>швейная машина, ж.</string>
+	<key>vacuum, vacuum cleaner</key>
+	<string>пылесос, м.</string>
+	<key>iron, smoothing iron</key>
+	<string>утюг, м.</string>
+	<key>espresso maker</key>
+	<string>кофемашина, ж.</string>
+	<key>washer, automatic washer, washing machine</key>
+	<string>стиральная машина, ж.</string>
+	<key>refrigerator, icebox</key>
+	<string>холодильник, м.</string>
+	<key>teapot</key>
+	<string>чайник, м.</string>
+	<key>stove</key>
+	<string>газовая / электрическая  плита, ж.</string>
+	<key>microwave, microwave oven</key>
+	<string>микроволновая печь, ж.</string>
+	<key>toaster</key>
+	<string>тостер, м.</string>
+	<key>scale, weighing machine</key>
+	<string>весы, м., мн.ч.</string>
+	<key>lampshade, lamp shade</key>
+	<string>лампочки, ж.</string>
+	<key>bassinet</key>
+	<string>коляска, ж.</string>
+	<key>mountain bike, all-terrain bike, off-roader</key>
+	<string>велосипед, м.</string>
+	<key>moped</key>
+	<string>мотоцикл, м.</string>
+	<key>motor scooter, scooter</key>
+	<string>мотоцикл, м.</string>
+	<key>limousin, limo</key>
+	<string>автомобиль, м.</string>
+	<key>sports car, sport car</key>
+	<string>автомобиль, м.</string>
+	<key>minivan</key>
+	<string>автомобиль, м.</string>
+	<key>jeep, landrover</key>
+	<string>автомобиль, м.</string>
+	<key>cab, hack, taxi, taxicab</key>
+	<string>такси, с.</string>
+	<key>school bus</key>
+	<string>автобус, м.</string>
+	<key>minibus</key>
+	<string>автобус, м.</string>
+	<key>trolleybus, trolley coach, trackless trolley</key>
+	<string>трамвай, м.</string>
+	<key>bullet train, bullet</key>
+	<string>поезд, м.</string>
+	<key>steam locomotive</key>
+	<string>поезд, м.</string>
+	<key>electric locomotive</key>
+	<string>поезд, м.</string>
+	<key>airliner</key>
+	<string>самолет, м.</string>
+	<key>liner, ocean liner</key>
+	<string>корабль, м.</string>
+	<key>schooner</key>
+	<string>корабль, м.</string>
+	<key>canoe</key>
+	<string>лодка, ж.</string>
+	<key>speedboat</key>
+	<string>лодка, ж.</string>
+	<key>traffic light, traffic signal, stoplight</key>
+	<string>светофор, м.</string>
+	<key>gas pump, gasoline pump, petrol pump, island dispenser</key>
+	<string>заправочная станция, ж.</string>
+	<key>castle</key>
+	<string>замок, м.</string>
+	<key>cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM</key>
+	<string>банкомат, м.</string>
+	<key>menu</key>
+	<string>меню, с.</string>
+	<key>pop bottle, soda bottle</key>
+	<string>жестяная банка, ж.</string>
+	<key>water bottle</key>
+	<string>бутылка, ж.</string>
+	<key>coffee mug</key>
+	<string>кружка, ж.</string>
+	<key>cup</key>
+	<string>кружка, ж.</string>
+	<key>beer glass</key>
+	<string>стакан, м.</string>
+	<key>coffeepot</key>
+	<string>кофейник, м.</string>
+	<key>mixing bowl</key>
+	<string>тарелка, ж.</string>
+	<key>plate</key>
+	<string>тарелка, ж.</string>
+	<key>ladle</key>
+	<string>ложка, ж.</string>
+	<key>spatula</key>
+	<string>вилка, ж.</string>
+	<key>cleaver, meat cleaver, chopper</key>
+	<string>нож, м.</string>
+	<key>letter opener, paper knife, paperknife</key>
+	<string>нож, м.</string>
+	<key>frying pan, frypan, skillet</key>
+	<string>сковорода, ж.</string>
+	<key>wok</key>
+	<string>сковорода, ж.</string>
+	<key>Crock Pot</key>
+	<string>кастрюля, ж.</string>
+	<key>french loaf</key>
+	<string>булочка, ж.</string>
+	<key>bagel, beigel</key>
+	<string>булочка, ж.</string>
+	<key>Granny Smith</key>
+	<string>яблоко, с.</string>
+	<key>banana</key>
+	<string>банан, м.</string>
+	<key>beer bottle</key>
+	<string>пиво, с.</string>
+	<key>butcher shop, meat market</key>
+	<string>мясо, с.</string>
+	<key>carbonara</key>
+	<string>макароны, ж., мн. ч.</string>
+	<key>lemon</key>
+	<string>лимон, м.</string>
+	<key>cucumber, cuke</key>
+	<string>огурец, м.</string>
+	<key>bell pepper</key>
+	<string>сладкий перец, м.</string>
+	<key>broccoli</key>
+	<string>брокколи, ж.</string>
+	<key>pizza, pizza pie</key>
+	<string>пицца, ж.</string>
+	<key>zucchini, courgette</key>
+	<string>цуккини, с.</string>
+	<key>coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch</key>
+	<string>рыба, ж.</string>
+	<key>goldfish, Carassius auratus</key>
+	<string>рыба, ж.</string>
+	<key>orange</key>
+	<string>апельсин, м.</string>
+	<key>head cabbage</key>
+	<string>капуста, ж.</string>
+	<key>red wein</key>
+	<string>вино, с.</string>
+	<key>corn</key>
+	<string>кукуруза, ж.</string>
+	<key>bakery, bakeshop, bakehouse</key>
+	<string>торт, м.</string>
+	<key>cheeseburger</key>
+	<string>бургер, м.</string>
+	<key>pretzel</key>
+	<string>бретцель, м.</string>
+	<key>pomegranate</key>
+	<string>гранат, м.</string>
+	<key>ice cream, icecream</key>
+	<string>мороженное, c.</string>
+	<key>pineapple, ananas</key>
+	<string>ананас, м.</string>
+	<key>strawberry</key>
+	<string>клубника, ж.</string>
+	<key>mushroom</key>
+	<string>гриб, м.</string>
+	<key>fig</key>
+	<string>инжир, м.</string>
+	<key>daisy</key>
+	<string>цветок, м.</string>
+	<key>pot, flowerpot</key>
+	<string>цветочный горшок, м.</string>
+	<key>vase</key>
+	<string>ваза, ж.</string>
+	<key>folding chair</key>
+	<string>стул, м.</string>
+	<key>desk</key>
+	<string>стол, м.</string>
+	<key>studio couch, day bed</key>
+	<string>диван, м.</string>
+	<key>rocking chair, rocker</key>
+	<string>кресло, с.</string>
+	<key>barber chair</key>
+	<string>кресло, с.</string>
+	<key>wardrobe, closet, press</key>
+	<string>шкаф, м.</string>
+	<key>bookcase</key>
+	<string>полка, ж.</string>
+	<key>chiffonier, commode</key>
+	<string>комод, м.</string>
+	<key>doormat, welcome mat</key>
+	<string>коврик, м.</string>
+	<key>table lamp</key>
+	<string>лампа, ж.</string>
+	<key>spotlight, spot</key>
+	<string>торшер, м.</string>
+	<key>digital clock</key>
+	<string>будильник, м.</string>
+	<key>analog clock</key>
+	<string>будильник, м.</string>
+	<key>bucket, pail</key>
+	<string>ведро, с.</string>
+	<key>hook, claw</key>
+	<string>вешалка, ж.</string>
+	<key>window shade</key>
+	<string>занавеска / штора, ж.</string>
+	<key>theater curtain, theatre curtain</key>
+	<string>занавеска / штора, ж.</string>
+	<key>bathtub, bathing tub, bath, tub</key>
+	<string>ванна, ж.</string>
+	<key>shower curtain</key>
+	<string>шторка для ванной, ж.</string>
+	<key>washbasin, handbasin, washbowl, lavabo, wash-hand basin</key>
+	<string>раковина, ж.</string>
+	<key>toilet seat</key>
+	<string>унитаз, м.</string>
+	<key>toilet tissue, toilet paper, bathroom tissue</key>
+	<string>туалетная бумага, ж.</string>
+	<key>soap dispenser</key>
+	<string>мыло, с.</string>
+	<key>upright, upright piano</key>
+	<string>фортепиано, с.</string>
+	<key>grand piano, grand</key>
+	<string>фортепиано, с.</string>
+	<key>sliding door</key>
+	<string>дверь, ж.</string>
+	<key>radiator</key>
+	<string>радиатор, м.</string>
+	<key>bannister, banister, balustrade, balusters, handrail</key>
+	<string>лестница, ж.</string>
+	<key>mountain tent</key>
+	<string>палатка, ж.</string>
+	<key>soccer ball</key>
+	<string>мяч, м.</string>
+	<key>tennis ball</key>
+	<string>мяч, м.</string>
+	<key>golf ball</key>
+	<string>мяч, м.</string>
+	<key>ping-pong ball</key>
+	<string>мяч, м.</string>
+	<key>umbrella</key>
+	<string>зонт, м.</string>
+	<key>candle, taper, wax light</key>
+	<string>свечка, ж.</string>
+	<key>lighter, light, igniter, ignitor</key>
+	<string>зажигалка, ж.</string>
+	<key>pill bottle</key>
+	<string>таблетка, ж.</string>
+	<key>Band Aid</key>
+	<string>лейкопластырь, м.</string>
+	<key>necklace</key>
+	<string>цепочка, ж.</string>
+	<key>perfume, essence</key>
+	<string>туалетная вода, ж.</string>
+	<key>sunglass</key>
+	<string>очки, м., мн. ч.</string>
+	<key>sunglasses, dark glasses, shades</key>
+	<string>очки, м., мн. ч.</string>
+	<key>wallet, billfold, notecase, pocketbook</key>
+	<string>кошелек, м.</string>
+	<key>purse</key>
+	<string>кошелек, м.</string>
+	<key>digital watch</key>
+	<string>наручные часы, м., мн. ч.</string>
+	<key>lipstick, lip rouge</key>
+	<string>губная помада, ж.</string>
+	<key>paper towel</key>
+	<string>салфетка, ж.</string>
+	<key>envelope</key>
+	<string>письмо, с.</string>
+	<key>packet</key>
+	<string>пакет, м.</string>
+	<key>ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin</key>
+	<string>мусорная корзина, ж.</string>
+	<key>carton</key>
+	<string>коробка, ж.</string>
+	<key>ballpoint, ballpoint pen, ballpen, Biro</key>
+	<string>ручка, ж.</string>
+	<key>rule, ruler</key>
+	<string>линейка, ж.</string>
+	<key>pencil sharpener</key>
+	<string>точилка, ж.</string>
+	<key>rubber eraser, rubber, pencil eraser</key>
+	<string>стирательная резинка, ж.</string>
+	<key>backpack, back pack, knapsack, packsack, rucksack, haversack</key>
+	<string>рюкзак, м.</string>
+	<key>mailbag, postbag</key>
+	<string>сумка, ж.</string>
+	<key>fur coat</key>
+	<string>куртка, ж.</string>
+	<key>cardigan</key>
+	<string>куртка, ж.</string>
+	<key>trench coat</key>
+	<string>пальто, с.</string>
+	<key>sweatshirt</key>
+	<string>свитер / пуловер, м.</string>
+	<key>jean, blue jean, denim</key>
+	<string>брюки, ж., мн.ч.</string>
+	<key>overskirt</key>
+	<string>юбка, ж.</string>
+	<key>jersey, T-shirt, tee shirt</key>
+	<string>футболка, ж.</string>
+	<key>wool, woolen, woollen</key>
+	<string>шапка, ж.</string>
+	<key>mitten</key>
+	<string>перчатка, ж.</string>
+	<key>sock</key>
+	<string>носок, м.</string>
+	<key>running shoe</key>
+	<string>кроссовки, м., мн.ч.</string>
+	<key>sandal</key>
+	<string>сандали, ж., мн.ч.</string>
+	<key>Loafer</key>
+	<string>лоферы, м., мн.ч.</string>
+	<key>cowboy boot</key>
+	<string>ботинки, м., мн.ч.</string>
+	<key>chickadee</key>
+	<string>птица, ж.</string>
+	<key>magpie</key>
+	<string>птица, ж.</string>
+	<key>black grouse</key>
+	<string>птица, ж.</string>
+	<key>hen</key>
+	<string>курица, ж.</string>
+	<key>rotisserie</key>
+	<string>курица, ж.</string>
+	<key>drake</key>
+	<string>утка, ж.</string>
+	<key>macaque</key>
+	<string>обезьяна, ж.</string>
+	<key>chimpanzee, chimp, Pan troglodytes</key>
+	<string>обезьяна, ж.</string>
+	<key>ox</key>
+	<string>корова ж.</string>
+	<key>sorrel</key>
+	<string>лошадь ж.</string>
+	<key>ram, tup</key>
+	<string>баран м.</string>
+	<key>tabby, tabby cat</key>
+	<string>кошка, ж.</string>
+	<key>Siamese cat, Siamese</key>
+	<string>кошка, ж.</string>
+	<key>Egyptian cat</key>
+	<string>кошка, ж.</string>
+	<key>Persian cat</key>
+	<string>кошка, ж.</string>
+	<key>Pembroke, Pembroke Welsh corgi</key>
+	<string>собака, ж.</string>
+	<key>Cardigan, Cardigan Welsh corgi</key>
+	<string>собака, ж.</string>
+	<key>toy poodle</key>
+	<string>собака, ж.</string>
+	<key>miniature poodle</key>
+	<string>собака, ж.</string>
+	<key>standard poodle</key>
+	<string>собака, ж.</string>
+	<key>chow, chow chow</key>
+	<string>собака, ж.</string>
+	<key>Pomeranian</key>
+	<string>собака, ж.</string>
+	<key>Eskimo dog, husky</key>
+	<string>собака, ж.</string>
+	<key>boxer</key>
+	<string>собака, ж.</string>
+	<key>bull mastiff</key>
+	<string>собака, ж.</string>
+	<key>Tibetan mastiff</key>
+	<string>собака, ж.</string>
+	<key>French bulldog</key>
+	<string>собака, ж.</string>
+	<key>Great Dane</key>
+	<string>собака, ж.</string>
+	<key>Saint Bernard, St Bernard</key>
+	<string>собака, ж.</string>
+	<key>malamute, malemute, Alaskan malamute</key>
+	<string>собака, ж.</string>
+	<key>Siberian husky</key>
+	<string>собака, ж.</string>
+	<key>dalmatian, coach dog, carriage dog</key>
+	<string>собака, ж.</string>
+	<key>affenpinscher, monkey pinscher, monkey dog</key>
+	<string>собака, ж.</string>
+	<key>basenji</key>
+	<string>собака, ж.</string>
+	<key>pug, pug-dog</key>
+	<string>собака, ж.</string>
+	<key>Leonberg</key>
+	<string>собака, ж.</string>
+	<key>Newfoundland, Newfoundland dog</key>
+	<string>собака, ж.</string>
+	<key>golden retriever</key>
+	<string>собака, ж.</string>
+	<key>Samoyed, Samoyede</key>
+	<string>собака, ж.</string>
+	<key>German shepherd, German shepherd dog, German police dog, alsatian</key>
+	<string>собака, ж.</string>
+	<key>Rottweiler</key>
+	<string>собака, ж.</string>
+	<key>Border collie</key>
+	<string>собака, ж.</string>
+	<key>collie</key>
+	<string>собака, ж.</string>
+	<key>cocker spaniel, English cocker spaniel, cocker</key>
+	<string>собака, ж.</string>
+	<key>Labrador retriever</key>
+	<string>собака, ж.</string>
+	<key>Maltese dog, Maltese terrier, Maltese</key>
+	<string>собака, ж.</string>
+	<key>Pekinese, Pekingese, Peke</key>
+	<string>собака, ж.</string>
+	<key>toy terrier</key>
+	<string>собака, ж.</string>
+</dict>
+</plist>

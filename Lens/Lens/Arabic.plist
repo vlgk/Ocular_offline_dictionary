@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iPod</key>
+	<string>هاتف نقّال</string>
+	<key>dial telephone, dial phone</key>
+	<string>هاتف [ج. هواتف]</string>
+	<key>desktop computer</key>
+	<string>حاسب [ج. حواسيب</string>
+	<key>laptop, laptop computer</key>
+	<string>حاسوب محمول</string>
+	<key>monitor</key>
+	<string>الشاشة {كمبيوتر}</string>
+	<key>computer keyboard, keypad</key>
+	<string>لوحة المفاتيح</string>
+	<key>mouse, computer mouse</key>
+	<string>فأرة {كمبيوتر}</string>
+	<key>modem</key>
+	<string>شبكة إنترنت لاسلكية</string>
+	<key>printer</key>
+	<string>طابعة [ج. طابعات]</string>
+	<key>television, television system</key>
+	<string>تلفزيون [ج. تلفزيونات]</string>
+	<key>remote control, remote</key>
+	<string>جهاز التحكم عن بعد</string>
+	<key>reflex camera</key>
+	<string>كاميرا رقمية</string>
+	<key>radio, wireless</key>
+	<string>راديو</string>
+	<key>hand blower, blow dryer, blow drier, hair dryer, hair drier</key>
+	<string>مجفف شعر</string>
+	<key>sewing machine</key>
+	<string>ماكينة الخياطة</string>
+	<key>vacuum, vacuum cleaner</key>
+	<string>مكنسة كهربائيَة</string>
+	<key>iron, smoothing iron</key>
+	<string>مكواه الملابس</string>
+	<key>espresso maker</key>
+	<string>آلة صنع القهوة</string>
+	<key>washer, automatic washer, washing machine</key>
+	<string>غسَالة [ج. غسالات]</string>
+	<key>refrigerator, icebox</key>
+	<string>ثلاجة</string>
+	<key>teapot</key>
+	<string>سخان ماء</string>
+	<key>stove</key>
+	<string>موقد المطَبخ</string>
+	<key>microwave, microwave oven</key>
+	<string>الميكروويف</string>
+	<key>toaster</key>
+	<string>محمصة الخبز</string>
+	<key>scale, weighing machine</key>
+	<string>ميزان [ج. موازين]</string>
+	<key>lampshade, lamp shade</key>
+	<string>مصباح كهربائي</string>
+	<key>bassinet</key>
+	<string>عربة أطفال</string>
+	<key>mountain bike, all-terrain bike, off-roader</key>
+	<string>درَاجة [ج. دراجات]</string>
+	<key>moped</key>
+	<string>دراجة بخارية</string>
+	<key>motor scooter, scooter</key>
+	<string>دراجة بخارية</string>
+	<key>limousin, limo</key>
+	<string>سيارة [ج. سيارات] </string>
+	<key>sports car, sport car</key>
+	<string>سيارة [ج. سيارات] </string>
+	<key>minivan</key>
+	<string>سيارة [ج. سيارات] </string>
+	<key>jeep, landrover</key>
+	<string>سيارة [ج. سيارات] </string>
+	<key>cab, hack, taxi, taxicab</key>
+	<string>تاكسيَ [ج. تكسيات]</string>
+	<key>school bus</key>
+	<string>الحافلة</string>
+	<key>minibus</key>
+	<string>الحافلة</string>
+	<key>trolleybus, trolley coach, trackless trolley</key>
+	<string>ترام [ج. ترامات]</string>
+	<key>bullet train, bullet</key>
+	<string>قِطار [ج. قطارات]</string>
+	<key>steam locomotive</key>
+	<string>قِطار [ج. قطارات]</string>
+	<key>electric locomotive</key>
+	<string>قِطار [ج. قطارات]</string>
+	<key>airliner</key>
+	<string>طائرة [ج. طائرات]</string>
+	<key>liner, ocean liner</key>
+	<string>سفينة</string>
+	<key>schooner</key>
+	<string>سفينة</string>
+	<key>canoe</key>
+	<string>قارب [ج. قوارب]</string>
+	<key>speedboat</key>
+	<string>قارب [ج. قوارب]</string>
+	<key>traffic light, traffic signal, stoplight</key>
+	<string>إشارة المرور </string>
+	<key>gas pump, gasoline pump, petrol pump, island dispenser</key>
+	<string>محطة بنزين</string>
+	<key>castle</key>
+	<string>قصر</string>
+	<key>cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM</key>
+	<string>ماكينة الصرّاف الآلي</string>
+	<key>menu</key>
+	<string>قائمة الطعام</string>
+	<key>pop bottle, soda bottle</key>
+	<string>علبة [ج. علب]</string>
+	<key>water bottle</key>
+	<string>زجاجة [ج. زجاجات]</string>
+	<key>coffee mug</key>
+	<string>فنجان [ج. فناجين]</string>
+	<key>cup</key>
+	<string>فنجان [ج. فناجين]</string>
+	<key>beer glass</key>
+	<string>كأس [ج. كؤوس]</string>
+	<key>coffeepot</key>
+	<string>إبريق قهوة</string>
+	<key>mixing bowl</key>
+	<string>طبق [ج. أطباق]</string>
+	<key>plate</key>
+	<string>طبق [ج. أطباق]</string>
+	<key>ladle</key>
+	<string>ملعقة [ج. ملاعق]</string>
+	<key>spatula</key>
+	<string>شوكة [ج. شوكات]</string>
+	<key>cleaver, meat cleaver, chopper</key>
+	<string>سكين [ج. سكاكين]</string>
+	<key>letter opener, paper knife, paperknife</key>
+	<string>سكين [ج. سكاكين]</string>
+	<key>frying pan, frypan, skillet</key>
+	<string>مقلاة</string>
+	<key>wok</key>
+	<string>مقلاة</string>
+	<key>Crock Pot</key>
+	<string>وعاء [ج. أوعية]</string>
+	<key>french loaf</key>
+	<string>خبز صغير مدور</string>
+	<key>bagel, beigel</key>
+	<string>خبز صغير مدور</string>
+	<key>Granny Smith</key>
+	<string>تفَاح</string>
+	<key>banana</key>
+	<string>موز {نبات}</string>
+	<key>beer bottle</key>
+	<string>بيرة {مشروب كحولي}</string>
+	<key>butcher shop, meat market</key>
+	<string>لحم [ج. لحوم]</string>
+	<key>carbonara</key>
+	<string>المعكرونة</string>
+	<key>lemon</key>
+	<string>ليمون {نبات}</string>
+	<key>cucumber, cuke</key>
+	<string>الخيار</string>
+	<key>bell pepper</key>
+	<string>فلفل أحمر</string>
+	<key>broccoli</key>
+	<string>قرنبيط {نبات}</string>
+	<key>pizza, pizza pie</key>
+	<string>بيتزا</string>
+	<key>zucchini, courgette</key>
+	<string>كوسة</string>
+	<key>coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch</key>
+	<string>سمكة [ج. سمك]</string>
+	<key>goldfish, Carassius auratus</key>
+	<string>سمكة [ج. سمك]</string>
+	<key>orange</key>
+	<string>برتقال</string>
+	<key>head cabbage</key>
+	<string>كرنب</string>
+	<key>red wein</key>
+	<string>نبيذ</string>
+	<key>corn</key>
+	<string>ذرة [ج. ذرات]</string>
+	<key>bakery, bakeshop, bakehouse</key>
+	<string>تورتة [ج. تورتات]</string>
+	<key>cheeseburger</key>
+	<string>هامبرغر</string>
+	<key>pretzel</key>
+	<string>نوع من أنواع الخبز المقرمش</string>
+	<key>pomegranate</key>
+	<string>رمان</string>
+	<key>ice cream, icecream</key>
+	<string>بوظة</string>
+	<key>pineapple, ananas</key>
+	<string>أناناس </string>
+	<key>strawberry</key>
+	<string>فراولة</string>
+	<key>mushroom</key>
+	<string>فطر</string>
+	<key>fig</key>
+	<string>تينة</string>
+	<key>daisy</key>
+	<string>زهر [ج. أزهار]</string>
+	<key>pot, flowerpot</key>
+	<string>أصيص الزهور</string>
+	<key>vase</key>
+	<string>زهريَة [ج. زهريات]</string>
+	<key>folding chair</key>
+	<string>كرسي [ج. كراسي]</string>
+	<key>desk</key>
+	<string>طاولة [ج. طاولات]</string>
+	<key>studio couch, day bed</key>
+	<string>أريكة [ج. أرائك]</string>
+	<key>rocking chair, rocker</key>
+	<string>كرسي</string>
+	<key>barber chair</key>
+	<string>كرسي</string>
+	<key>wardrobe, closet, press</key>
+	<string>خِزانه</string>
+	<key>bookcase</key>
+	<string>رف</string>
+	<key>chiffonier, commode</key>
+	<string>صوان</string>
+	<key>doormat, welcome mat</key>
+	<string>سجادة [ج. سجاد]</string>
+	<key>table lamp</key>
+	<string>مصباح [ج. مصابيح]</string>
+	<key>spotlight, spot</key>
+	<string>مصباح عمودي</string>
+	<key>digital clock</key>
+	<string>منبه [ج. منبهات]</string>
+	<key>analog clock</key>
+	<string>منبه [ج. منبهات]</string>
+	<key>bucket, pail</key>
+	<string>دلو</string>
+	<key>hook, claw</key>
+	<string>خطاف</string>
+	<key>window shade</key>
+	<string>ستارة</string>
+	<key>theater curtain, theatre curtain</key>
+	<string>ستارة</string>
+	<key>bathtub, bathing tub, bath, tub</key>
+	<string>حوض الاستحمام</string>
+	<key>shower curtain</key>
+	<string>ستارة حمام</string>
+	<key>washbasin, handbasin, washbowl, lavabo, wash-hand basin</key>
+	<string>حوض غسل الوجه/ مغسلة</string>
+	<key>toilet seat</key>
+	<string>مرحاض</string>
+	<key>toilet tissue, toilet paper, bathroom tissue</key>
+	<string>ورق المرحاض</string>
+	<key>soap dispenser</key>
+	<string>صابُون</string>
+	<key>upright, upright piano</key>
+	<string>بيانو [ج. بيانوهات]</string>
+	<key>grand piano, grand</key>
+	<string>بيانو [ج. بيانوهات]</string>
+	<key>sliding door</key>
+	<string>باب [ج. أبواب]</string>
+	<key>radiator</key>
+	<string>جسم المدفأة</string>
+	<key>bannister, banister, balustrade, balusters, handrail</key>
+	<string>سلم [ج. سلالم]</string>
+	<key>mountain tent</key>
+	<string>خيمة [ج. خيم]</string>
+	<key>soccer ball</key>
+	<string>كرة [ج. كرات]</string>
+	<key>tennis ball</key>
+	<string>كرة [ج. كرات]</string>
+	<key>golf ball</key>
+	<string>كرة [ج. كرات]</string>
+	<key>ping-pong ball</key>
+	<string>كرة [ج. كرات]</string>
+	<key>umbrella</key>
+	<string>مظلَة</string>
+	<key>candle, taper, wax light</key>
+	<string>شمعة [ج. شمع]</string>
+	<key>lighter, light, igniter, ignitor</key>
+	<string>ولاعة [ج. ولاعات]</string>
+	<key>pill bottle</key>
+	<string>حبَة دواء</string>
+	<key>Band Aid</key>
+	<string>لاصق طبي</string>
+	<key>necklace</key>
+	<string>قلادة</string>
+	<key>perfume, essence</key>
+	<string>عطر</string>
+	<key>sunglass</key>
+	<string>نظَارة [ج. نظارات]</string>
+	<key>sunglasses, dark glasses, shades</key>
+	<string>نظَارة [ج. نظارات]</string>
+	<key>wallet, billfold, notecase, pocketbook</key>
+	<string>محفظة النَقود [ج. محافظ النقود]</string>
+	<key>purse</key>
+	<string>محفظة النَقود [ج. محافظ النقود]</string>
+	<key>digital watch</key>
+	<string>ساعة [ج. ساعات]</string>
+	<key>lipstick, lip rouge</key>
+	<string>أحمر الشفاه</string>
+	<key>paper towel</key>
+	<string>منديل الجيب</string>
+	<key>envelope</key>
+	<string>خطاب [ج. خطابات]</string>
+	<key>packet</key>
+	<string>حزمة</string>
+	<key>ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin</key>
+	<string>سلَة [ج. سلات]</string>
+	<key>carton</key>
+	<string>كرتون [ج. كراتين]</string>
+	<key>ballpoint, ballpoint pen, ballpen, Biro</key>
+	<string>قلم حبر</string>
+	<key>rule, ruler</key>
+	<string>مسطرة [ج. مساطر]</string>
+	<key>pencil sharpener</key>
+	<string>مبراة</string>
+	<key>rubber eraser, rubber, pencil eraser</key>
+	<string>ممحاة</string>
+	<key>backpack, back pack, knapsack, packsack, rucksack, haversack</key>
+	<string>حقيبة ظهر</string>
+	<key>mailbag, postbag</key>
+	<string>شنطة [ج. شنط]</string>
+	<key>fur coat</key>
+	<string>جاكتَ [ج. جواكت]</string>
+	<key>cardigan</key>
+	<string>جاكتَ [ج. جواكت]</string>
+	<key>trench coat</key>
+	<string>معطف [ج. معاطف]</string>
+	<key>sweatshirt</key>
+	<string>بلوفر</string>
+	<key>jean, blue jean, denim</key>
+	<string>بنطلون [ج. بناطيل]</string>
+	<key>overskirt</key>
+	<string>تنورة</string>
+	<key>jersey, T-shirt, tee shirt</key>
+	<string>تيشرت</string>
+	<key>wool, woolen, woollen</key>
+	<string>قبعة</string>
+	<key>mitten</key>
+	<string>قفَاز [ج. قفازات]</string>
+	<key>sock</key>
+	<string>جورب [ج. جوارب]</string>
+	<key>running shoe</key>
+	<string>حذاء رياضي {رياضة}</string>
+	<key>sandal</key>
+	<string>صندل</string>
+	<key>Loafer</key>
+	<string>حذاء [ج. أحذية]</string>
+	<key>cowboy boot</key>
+	<string>بوت</string>
+	<key>chickadee</key>
+	<string>طير [ج. طيور]</string>
+	<key>magpie</key>
+	<string>طير [ج. طيور]</string>
+	<key>black grouse</key>
+	<string>طير [ج. طيور]</string>
+	<key>hen</key>
+	<string>دجاجة</string>
+	<key>rotisserie</key>
+	<string>دجاجة</string>
+	<key>drake</key>
+	<string>بطَة [ج. بط]</string>
+	<key>macaque</key>
+	<string>قرد [ج. قرود]</string>
+	<key>chimpanzee, chimp, Pan troglodytes</key>
+	<string>قرد [ج. قرود]</string>
+	<key>ox</key>
+	<string>بقرة [ج. بقر] </string>
+	<key>sorrel</key>
+	<string>حصان [ج. أحصنة]</string>
+	<key>ram, tup</key>
+	<string>شاة</string>
+	<key>tabby, tabby cat</key>
+	<string>قطة [ج. قطط]</string>
+	<key>Siamese cat, Siamese</key>
+	<string>قطة [ج. قطط]</string>
+	<key>Egyptian cat</key>
+	<string>قطة [ج. قطط]</string>
+	<key>Persian cat</key>
+	<string>قطة [ج. قطط]</string>
+	<key>Pembroke, Pembroke Welsh corgi</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>Cardigan, Cardigan Welsh corgi</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>toy poodle</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>miniature poodle</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>standard poodle</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>chow, chow chow</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>Pomeranian</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>Eskimo dog, husky</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>boxer</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>bull mastiff</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>Tibetan mastiff</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>French bulldog</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>Great Dane</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>Saint Bernard, St Bernard</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>malamute, malemute, Alaskan malamute</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>Siberian husky</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>dalmatian, coach dog, carriage dog</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>affenpinscher, monkey pinscher, monkey dog</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>basenji</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>pug, pug-dog</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>Leonberg</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>Newfoundland, Newfoundland dog</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>golden retriever</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>Samoyed, Samoyede</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>German shepherd, German shepherd dog, German police</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>Rottweiler</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>Border collie</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>collie</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>cocker spaniel, English cocker spaniel, cocker</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>Labrador retriever</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>Maltese dog, Maltese terrier, Maltese</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>Pekinese, Pekingese, Peke</key>
+	<string>كلب [ج. كلاب]</string>
+	<key>toy terrier</key>
+	<string>كلب [ج. كلاب]</string>
+</dict>
+</plist>

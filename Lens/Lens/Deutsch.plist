@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iPod</key>
+	<string>das Handy, -s</string>
+	<key>dial telephone, dial phone</key>
+	<string>das Telefon, -e</string>
+	<key>desktop computer</key>
+	<string>der Computer, -</string>
+	<key>laptop, laptop computer</key>
+	<string>der Laptop, -s</string>
+	<key>monitor</key>
+	<string>der Bildschirm, -e</string>
+	<key>computer keyboard, keypad</key>
+	<string>die Tastatur, -en</string>
+	<key>mouse, computer mouse</key>
+	<string>die Maus, “-e</string>
+	<key>modem</key>
+	<string>das WLAN, -</string>
+	<key>printer</key>
+	<string>der Drucker, -</string>
+	<key>television, television system</key>
+	<string>der Fernseher, -</string>
+	<key>remote control, remote</key>
+	<string>die Fernbedienung, -en</string>
+	<key>reflex camera</key>
+	<string>die Digitalkamera, -s</string>
+	<key>radio, wireless</key>
+	<string>das Radio, -s</string>
+	<key>hand blower, blow dryer, blow drier, hair dryer, hair drier</key>
+	<string>der Föhn, -e</string>
+	<key>sewing machine</key>
+	<string>die Nähmaschine,-n</string>
+	<key>vacuum, vacuum cleaner</key>
+	<string>der Staubsauger, -</string>
+	<key>iron, smoothing iron</key>
+	<string>das Bügeleisen, -</string>
+	<key>espresso maker</key>
+	<string>die Kaffeemaschine, -n</string>
+	<key>washer, automatic washer, washing machine</key>
+	<string>die Waschmaschine, -n</string>
+	<key>refrigerator, icebox</key>
+	<string>der Kühlschrank, &quot;-e</string>
+	<key>teapot</key>
+	<string>der Wasserkocher, -</string>
+	<key>stove</key>
+	<string>der Herd, -e</string>
+	<key>microwave, microwave oven</key>
+	<string>die Mikrowelle, -n</string>
+	<key>toaster</key>
+	<string>der Toaster, -</string>
+	<key>scale, weighing machine</key>
+	<string>die Waage, -n</string>
+	<key>lampshade, lamp shade</key>
+	<string>die Glühbirne, -n</string>
+	<key>bassinet</key>
+	<string>der Kinderwagen, -</string>
+	<key>mountain bike, all-terrain bike, off-roader</key>
+	<string>das Fahrrad, &quot; -er</string>
+	<key>moped</key>
+	<string>das Moped, -s</string>
+	<key>motor scooter, scooter</key>
+	<string>das Moped, -s</string>
+	<key>limousin, limo</key>
+	<string>das Auto, -s</string>
+	<key>sports car, sport car</key>
+	<string>das Auto, -s</string>
+	<key>minivan</key>
+	<string>das Auto, -s</string>
+	<key>jeep, landrover</key>
+	<string>das Auto, -s</string>
+	<key>cab, hack, taxi, taxicab</key>
+	<string>das Taxi, -s</string>
+	<key>school bus</key>
+	<string>der Bus, -se</string>
+	<key>minibus</key>
+	<string>der Bus, -se</string>
+	<key>trolleybus, trolley coach, trackless trolley</key>
+	<string>die Straßenbahn,-en</string>
+	<key>bullet train, bullet</key>
+	<string>der Zug, &quot;-e</string>
+	<key>steam locomotive</key>
+	<string>der Zug, &quot;-e</string>
+	<key>electric locomotive</key>
+	<string>der Zug, &quot;-e</string>
+	<key>airliner</key>
+	<string>das Flugzeug, -e</string>
+	<key>liner, ocean liner</key>
+	<string>das Schiff, -e</string>
+	<key>schooner</key>
+	<string>das Schiff, -e</string>
+	<key>canoe</key>
+	<string>das Boot, -e</string>
+	<key>speedboat</key>
+	<string>das Boot, -e</string>
+	<key>traffic light, traffic signal, stoplight</key>
+	<string>die Ampel, -n</string>
+	<key>gas pump, gasoline pump, petrol pump, island dispenser</key>
+	<string>die Tankstelle, -n</string>
+	<key>castle</key>
+	<string>das Schloss, &quot;-er</string>
+	<key>cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM</key>
+	<string>der Geldautomat, -en</string>
+	<key>menu</key>
+	<string>das Menü, -s</string>
+	<key>pop bottle, soda bottle</key>
+	<string>die Dose, -n</string>
+	<key>water bottle</key>
+	<string>die Flasche, -n</string>
+	<key>coffee mug</key>
+	<string>die Tasse, -n</string>
+	<key>cup</key>
+	<string>die Tasse, -n</string>
+	<key>beer glass</key>
+	<string>das Glas, &quot;-er</string>
+	<key>coffeepot</key>
+	<string>die Kaffeekanne, -n</string>
+	<key>mixing bowl</key>
+	<string>der Teller, -</string>
+	<key>plate</key>
+	<string>der Teller, -</string>
+	<key>ladle</key>
+	<string>der Löffel, -</string>
+	<key>spatula</key>
+	<string>die Gabel, -n</string>
+	<key>cleaver, meat cleaver, chopper</key>
+	<string>das Messer, -</string>
+	<key>letter opener, paper knife, paperknife</key>
+	<string>das Messer, -</string>
+	<key>frying pan, frypan, skillet</key>
+	<string>die Pfanne, -n</string>
+	<key>wok</key>
+	<string>die Pfanne, -n</string>
+	<key>Crock Pot</key>
+	<string>der Topf, &quot;-e</string>
+	<key>french loaf</key>
+	<string>das Brötchen, -</string>
+	<key>bagel, beigel</key>
+	<string>das Brötchen, -</string>
+	<key>Granny Smith</key>
+	<string>der Apfel, &quot;</string>
+	<key>banana</key>
+	<string>die Banane, -n</string>
+	<key>beer bottle</key>
+	<string>das Bier, -</string>
+	<key>butcher shop, meat market</key>
+	<string>das Fleisch, -</string>
+	<key>carbonara</key>
+	<string>die Nudeln, pl.</string>
+	<key>lemon</key>
+	<string>die Zitrone, -n</string>
+	<key>cucumber, cuke</key>
+	<string>die Gurke, -n</string>
+	<key>bell pepper</key>
+	<string>der Paprika, -s</string>
+	<key>broccoli</key>
+	<string>der Brokkoli, sg.</string>
+	<key>pizza, pizza pie</key>
+	<string>die Pizza, -s</string>
+	<key>zucchini, courgette</key>
+	<string>die Zucchini, -</string>
+	<key>coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch</key>
+	<string>der Fisch, -e</string>
+	<key>goldfish, Carassius auratus</key>
+	<string>der Fisch, -e</string>
+	<key>orange</key>
+	<string>die Orange, -n</string>
+	<key>head cabbage</key>
+	<string>der Kohl, pl.</string>
+	<key>red wein</key>
+	<string>der Wein, pl.</string>
+	<key>corn</key>
+	<string>der Mais, pl.</string>
+	<key>bakery, bakeshop, bakehouse</key>
+	<string>die Torte, -n</string>
+	<key>cheeseburger</key>
+	<string>der Hamburger, -</string>
+	<key>pretzel</key>
+	<string>die Brezel,-n</string>
+	<key>pomegranate</key>
+	<string>der Granatapfel, &quot;</string>
+	<key>ice cream, icecream</key>
+	<string>das Eis, sg.</string>
+	<key>pineapple, ananas</key>
+	<string>die Ananas, -se</string>
+	<key>strawberry</key>
+	<string>die Erdbeere, -n</string>
+	<key>mushroom</key>
+	<string>der Pilz, -e</string>
+	<key>fig</key>
+	<string>die Feige, -n</string>
+	<key>daisy</key>
+	<string>die Blume, -n</string>
+	<key>pot, flowerpot</key>
+	<string>der Blumentopf, “-e</string>
+	<key>vase</key>
+	<string>die Vase, -n</string>
+	<key>folding chair</key>
+	<string>der Stuhl, &quot;-e</string>
+	<key>desk</key>
+	<string>der Tisch, -e</string>
+	<key>studio couch, day bed</key>
+	<string>das Sofa, -s</string>
+	<key>rocking chair, rocker</key>
+	<string>der Sessel, -</string>
+	<key>barber chair</key>
+	<string>der Sessel, -</string>
+	<key>wardrobe, closet, press</key>
+	<string>der Schrank, &quot;-e</string>
+	<key>bookcase</key>
+	<string>das Regal, -e</string>
+	<key>chiffonier, commode</key>
+	<string>die Kommode, -n</string>
+	<key>doormat, welcome mat</key>
+	<string>der Teppich, -e</string>
+	<key>table lamp</key>
+	<string>die Lampe, -n</string>
+	<key>spotlight, spot</key>
+	<string>die Stehlampe, -n</string>
+	<key>digital clock</key>
+	<string>der Wecker, -</string>
+	<key>analog clock</key>
+	<string>der Wecker, -</string>
+	<key>bucket, pail</key>
+	<string>der Eimer, -</string>
+	<key>hook, claw</key>
+	<string>der Haken, -</string>
+	<key>window shade</key>
+	<string>der Vorhang, &quot;-e</string>
+	<key>theater curtain, theatre curtain</key>
+	<string>der Vorhang, &quot;-e</string>
+	<key>bathtub, bathing tub, bath, tub</key>
+	<string>die Badewanne, -n</string>
+	<key>shower curtain</key>
+	<string>der Duschvorhang, &quot;-e</string>
+	<key>washbasin, handbasin, washbowl, lavabo, wash-hand basin</key>
+	<string>das Waschbecken, -</string>
+	<key>toilet seat</key>
+	<string>das Klo, -s / die Toilette, -n</string>
+	<key>toilet tissue, toilet paper, bathroom tissue</key>
+	<string>das Toilettenpapier, -e</string>
+	<key>soap dispenser</key>
+	<string>die Seife, -n</string>
+	<key>upright, upright piano</key>
+	<string>das Klavier, -e</string>
+	<key>grand piano, grand</key>
+	<string>das Klavier, -e</string>
+	<key>sliding door</key>
+	<string>die Tür, -en</string>
+	<key>radiator</key>
+	<string>der Heizkörper, - / der Radiator, -en</string>
+	<key>bannister, banister, balustrade, balusters, handrail</key>
+	<string>die Treppe, -n</string>
+	<key>mountain tent</key>
+	<string>das Zelt, -e</string>
+	<key>soccer ball</key>
+	<string>der Ball, &quot;-e</string>
+	<key>tennis ball</key>
+	<string>der Ball, &quot;-e</string>
+	<key>golf ball</key>
+	<string>der Ball, &quot;-e</string>
+	<key>ping-pong ball</key>
+	<string>der Ball, &quot;-e</string>
+	<key>umbrella</key>
+	<string>der Regenschirm, -e</string>
+	<key>candle, taper, wax light</key>
+	<string>die Kerze, -n</string>
+	<key>lighter, light, igniter, ignitor</key>
+	<string>das Feuerzeug, -e</string>
+	<key>pill bottle</key>
+	<string>die Tablette, -n</string>
+	<key>Band Aid</key>
+	<string>das Pflaster, -</string>
+	<key>necklace</key>
+	<string>die Halskette, -n</string>
+	<key>perfume, essence</key>
+	<string>das Parfüm, &quot;-e</string>
+	<key>sunglass</key>
+	<string>die Brille, -n</string>
+	<key>sunglasses, dark glasses, shades</key>
+	<string>die Brille, -n</string>
+	<key>wallet, billfold, notecase, pocketbook</key>
+	<string>die Geldbörse, -n</string>
+	<key>purse</key>
+	<string>die Geldbörse, -n</string>
+	<key>digital watch</key>
+	<string>die Uhr, -en</string>
+	<key>lipstick, lip rouge</key>
+	<string>der Lippenstift, -e</string>
+	<key>paper towel</key>
+	<string>das Taschentuch, &quot;-er</string>
+	<key>envelope</key>
+	<string>der Brief, -e</string>
+	<key>packet</key>
+	<string>das Paket, -e</string>
+	<key>ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin</key>
+	<string>der Korb, &quot;-e</string>
+	<key>carton</key>
+	<string>der Karton, -s</string>
+	<key>ballpoint, ballpoint pen, ballpen, Biro</key>
+	<string>der Kuli, -s</string>
+	<key>rule, ruler</key>
+	<string>das Lineal, -e</string>
+	<key>pencil sharpener</key>
+	<string>der Anspitzer, -</string>
+	<key>rubber eraser, rubber, pencil eraser</key>
+	<string>der Radiergummi, -s</string>
+	<key>backpack, back pack, knapsack, packsack, rucksack, haversack</key>
+	<string>der Rucksack, &quot;-e</string>
+	<key>mailbag, postbag</key>
+	<string>die Tasche, -n</string>
+	<key>fur coat</key>
+	<string>die Jacke, -n</string>
+	<key>cardigan</key>
+	<string>die Jacke, -n</string>
+	<key>trench coat</key>
+	<string>der Mantel, &quot;</string>
+	<key>sweatshirt</key>
+	<string>der Pulli, -s</string>
+	<key>jean, blue jean, denim</key>
+	<string>die Hose, -n</string>
+	<key>overskirt</key>
+	<string>der Rock, “-e</string>
+	<key>jersey, T-shirt, tee shirt</key>
+	<string>das T-Shirt, -s</string>
+	<key>wool, woolen, woollen</key>
+	<string>die Mütze, -n</string>
+	<key>mitten</key>
+	<string>der Handschuh, -e</string>
+	<key>sock</key>
+	<string>die Socke, -n</string>
+	<key>running shoe</key>
+	<string>die Sportschuhe, pl.</string>
+	<key>sandal</key>
+	<string>die Sandale, -n</string>
+	<key>Loafer</key>
+	<string>flache Schuhe, pl.</string>
+	<key>cowboy boot</key>
+	<string>der Stiefel, -</string>
+	<key>chickadee</key>
+	<string>der Vogel, &quot;</string>
+	<key>magpie</key>
+	<string>der Vogel, &quot;</string>
+	<key>black grouse</key>
+	<string>der Vogel, &quot;</string>
+	<key>hen</key>
+	<string>das Hähnchen, -</string>
+	<key>rotisserie</key>
+	<string>das Hähnchen, -</string>
+	<key>drake</key>
+	<string>die Ente, -n</string>
+	<key>macaque</key>
+	<string>der Affe, -n</string>
+	<key>chimpanzee, chimp, Pan troglodytes</key>
+	<string>der Affe, -n</string>
+	<key>ox</key>
+	<string>die Kuh, “-e</string>
+	<key>sorrel</key>
+	<string>das Pferd, -e</string>
+	<key>ram, tup</key>
+	<string>das Schaf, -e</string>
+	<key>tabby, tabby cat</key>
+	<string>die Katze, -n</string>
+	<key>Siamese cat, Siamese</key>
+	<string>die Katze, -n</string>
+	<key>Egyptian cat</key>
+	<string>die Katze, -n</string>
+	<key>Persian cat</key>
+	<string>die Katze, -n</string>
+	<key>Pembroke, Pembroke Welsh corgi</key>
+	<string>der Hund, -e</string>
+	<key>Cardigan, Cardigan Welsh corgi</key>
+	<string>der Hund, -e</string>
+	<key>toy poodle</key>
+	<string>der Hund, -e</string>
+	<key>miniature poodle</key>
+	<string>der Hund, -e</string>
+	<key>standard poodle</key>
+	<string>der Hund, -e</string>
+	<key>chow, chow chow</key>
+	<string>der Hund, -e</string>
+	<key>Pomeranian</key>
+	<string>der Hund, -e</string>
+	<key>Eskimo dog, husky</key>
+	<string>der Hund, -e</string>
+	<key>boxer</key>
+	<string>der Hund, -e</string>
+	<key>bull mastiff</key>
+	<string>der Hund, -e</string>
+	<key>Tibetan mastiff</key>
+	<string>der Hund, -e</string>
+	<key>French bulldog</key>
+	<string>der Hund, -e</string>
+	<key>Great Dane</key>
+	<string>der Hund, -e</string>
+	<key>Saint Bernard, St Bernard</key>
+	<string>der Hund, -e</string>
+	<key>malamute, malemute, Alaskan malamute</key>
+	<string>der Hund, -e</string>
+	<key>Siberian husky</key>
+	<string>der Hund, -e</string>
+	<key>dalmatian, coach dog, carriage dog</key>
+	<string>der Hund, -e</string>
+	<key>affenpinscher, monkey pinscher, monkey dog</key>
+	<string>der Hund, -e</string>
+	<key>basenji</key>
+	<string>der Hund, -e</string>
+	<key>pug, pug-dog</key>
+	<string>der Hund, -e</string>
+	<key>Leonberg</key>
+	<string>der Hund, -e</string>
+	<key>Newfoundland, Newfoundland dog</key>
+	<string>der Hund, -e</string>
+	<key>Samoyed, Samoyede</key>
+	<string>der Hund, -e</string>
+	<key>German shepherd, German shepherd dog, German police dog, alsatian</key>
+	<string>der Hund, -e</string>
+	<key>Rottweiler</key>
+	<string>der Hund, -e</string>
+	<key>Border collie</key>
+	<string>der Hund, -e</string>
+	<key>collie</key>
+	<string>der Hund, -e</string>
+	<key>cocker spaniel, English cocker spaniel, cocker</key>
+	<string>der Hund, -e</string>
+	<key>Labrador retriever</key>
+	<string>der Hund, -e</string>
+	<key>golden retriever</key>
+	<string>der Hund, -e</string>
+	<key>Maltese dog, Maltese terrier, Maltese</key>
+	<string>der Hund, -e</string>
+	<key>Pekinese, Pekingese, Peke</key>
+	<string>der Hund, -e</string>
+	<key>toy terrier
+&lt;!DOCTYPE plist PUBLIC &quot;-//Apple//DTD PLIST 1.0//EN&quot; &quot;http://www.apple.com/DTDs/PropertyList-1.0.dtd&quot;&gt;
+&lt;plist version=&quot;1.0&quot;&gt;
+&lt;string&gt;der Hund, -e&lt;/string&gt;
+&lt;/plist&gt;
+</key>
+	<string>der Hund, -e</string>
+</dict>
+</plist>

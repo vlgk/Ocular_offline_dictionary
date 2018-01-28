@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iPod</key>
+	<array>
+		<string>das Handy, -s </string>
+		<string>мобильный телефон, м.</string>
+		<string>mobile phone</string>
+	</array>
+	<key>laptop, laptop computer</key>
+	<array>
+		<string>der Laptop, -s</string>
+		<string>ноутбук, м.</string>
+		<string>laptop</string>
+	</array>
+	<key>dial telephone, dial phone</key>
+	<array>
+		<string>das Telefon, -e</string>
+		<string>стационарный телефон, м.</string>
+		<string>dial telephone</string>
+	</array>
+	<key>desktop computer</key>
+	<array>
+		<string>der Computer, -</string>
+		<string>стационарный компьютер, м.</string>
+		<string>desktop computer</string>
+	</array>
+	<key>monitor</key>
+	<array>
+		<string>der Bildschirm, -e</string>
+		<string>монитор, м.</string>
+		<string>monitor</string>
+	</array>
+	<key>computer keyboard, keypad</key>
+	<array>
+		<string>die Tastatur, -en</string>
+		<string>клавиатура, ж.</string>
+		<string>computer keyboard</string>
+	</array>
+	<key>mouse, computer mouse</key>
+	<array>
+		<string>die Maus, “-e</string>
+		<string>мышка, ж.</string>
+		<string>computer mouse</string>
+	</array>
+	<key>modem</key>
+	<array>
+		<string>das WLAN, -</string>
+		<string>роутер, м.</string>
+		<string>modem</string>
+	</array>
+	<key>printer</key>
+	<array>
+		<string>der Drucker, -</string>
+		<string>принтер, м.</string>
+		<string>printer</string>
+	</array>
+	<key>television, television system</key>
+	<array>
+		<string>der Fernseher, -</string>
+		<string>телевизор, м.</string>
+		<string>TV</string>
+	</array>
+	<key>remote control, remote</key>
+	<array>
+		<string>die Fernbediengung, -en</string>
+		<string>пульт, м.</string>
+		<string>remote control</string>
+	</array>
+	<key>reflex camera</key>
+	<array>
+		<string>die Digitalkamera, -s</string>
+		<string>фотоаппарат, м.</string>
+		<string>digital camera</string>
+	</array>
+	<key>radio, wireless</key>
+	<array>
+		<string>das Radio, -s</string>
+		<string>радио, с.</string>
+		<string>radio</string>
+	</array>
+	<key>hand blower, blow dryer, blow drier, hair dryer, hair drier</key>
+	<array>
+		<string>der Föhn, -e</string>
+		<string>фен, м.</string>
+		<string>hair dryer</string>
+	</array>
+	<key>sewing machine</key>
+	<array>
+		<string>die Nähmaschine,-n</string>
+		<string>швейная машина, ж.</string>
+		<string>sewing machine</string>
+	</array>
+	<key>vacuum, vacuum cleaner</key>
+	<array>
+		<string>der Staubsauger, -</string>
+		<string>пылесос, м.</string>
+		<string>vacuum cleaner</string>
+	</array>
+	<key>iron, smoothing iron</key>
+	<array>
+		<string>das Bügeleisen, -</string>
+		<string>утюг, м.</string>
+		<string>smoothing iron</string>
+	</array>
+	<key>espresso maker</key>
+	<array>
+		<string>die Kaffemaschine, -n</string>
+		<string>кофемашина, ж.</string>
+		<string>coffee maker</string>
+	</array>
+	<key>washer, automatic washer, washing machine</key>
+	<array>
+		<string>die Wachmaschine, -n</string>
+		<string>стиральная машина, ж.</string>
+		<string>washing machine</string>
+	</array>
+	<key>refrigerator, icebox</key>
+	<array>
+		<string>der Kühlschrank, &quot;-e</string>
+		<string>холодильник, м.</string>
+		<string>fridge</string>
+	</array>
+	<key>teapot</key>
+	<array>
+		<string>der Wasserkocher, -</string>
+		<string>чайник, м.</string>
+		<string>teapot</string>
+	</array>
+	<key>stove</key>
+	<array>
+		<string>der Herd, -e</string>
+		<string>газовая / электрическая плита, ж.</string>
+		<string>stove</string>
+	</array>
+	<key>microwave, microwave oven</key>
+	<array>
+		<string>die Mikrowelle, -n</string>
+		<string>микроволновая печь, ж.</string>
+		<string>microwave</string>
+	</array>
+	<key>toaster</key>
+	<array>
+		<string>der Toaster, -</string>
+		<string>тостер, м.</string>
+		<string>toaster</string>
+	</array>
+	<key>scale, weighing machine</key>
+	<array>
+		<string>die Waage, -n</string>
+		<string>весы, м., мн.ч.</string>
+		<string>scale</string>
+	</array>
+	<key>lampshade, lamp shade</key>
+	<array>
+		<string>die Glühbirne, -n</string>
+		<string>лампочки, ж.</string>
+		<string>(light) bulb</string>
+	</array>
+	<key>bassinet</key>
+	<array>
+		<string>der Kinderwagen, -</string>
+		<string>коляска, ж.</string>
+		<string>baby carriage</string>
+	</array>
+	<key>mountain bike, all-terrain bike, off-roader</key>
+	<array>
+		<string>das Fahrrad, &quot; -er</string>
+		<string>велосипед, м.</string>
+		<string>bike</string>
+	</array>
+	<key>moped, motor scooter, scooter</key>
+	<array>
+		<string>das Moped, -s</string>
+		<string>мотоцикл, м.</string>
+		<string>moped</string>
+	</array>
+	<key>limousin, limo</key>
+	<array>
+		<string>das Auto, -s</string>
+		<string>автомобиль, м.</string>
+		<string>car</string>
+	</array>
+	<key>sports car, sport car</key>
+	<array>
+		<string>das Auto, -s</string>
+		<string>автомобиль, м.</string>
+		<string>car</string>
+	</array>
+	<key>minivan</key>
+	<array>
+		<string>das Auto, -s</string>
+		<string>автомобиль, м.</string>
+		<string>car</string>
+	</array>
+	<key>jeep, landrover</key>
+	<array>
+		<string>das Auto, -s</string>
+		<string>автомобиль, м.</string>
+		<string>car</string>
+	</array>
+	<key>cab, hack, taxi, taxicab</key>
+	<array>
+		<string>das Taxi, -s</string>
+		<string>такси, с.</string>
+		<string>taxi</string>
+	</array>
+	<key>school bus</key>
+	<array>
+		<string>der Bus, -se</string>
+		<string>автобус, м.</string>
+		<string>bus</string>
+	</array>
+	<key>minibus</key>
+	<array>
+		<string>der Bus, -se</string>
+		<string>автобус, м.</string>
+		<string>bus</string>
+	</array>
+	<key>trolleybus, trolley coach, trackless trolley</key>
+	<array>
+		<string>die Straßenbahn,-en</string>
+		<string>трамвай, м.</string>
+		<string>tram</string>
+	</array>
+	<key>bullet train, bullet</key>
+	<array>
+		<string>der Zug, &quot;-e</string>
+		<string>поезд, м.</string>
+		<string>train</string>
+	</array>
+	<key>steam locomotive</key>
+	<array>
+		<string>der Zug, &quot;-e</string>
+		<string>поезд, м.</string>
+		<string>train</string>
+	</array>
+	<key>electric locomotive</key>
+	<array>
+		<string>der Zug, &quot;-e</string>
+		<string>поезд, м.</string>
+		<string>train</string>
+	</array>
+	<key>airliner</key>
+	<array>
+		<string>das Flugzeug, -e</string>
+		<string>самолет, м.</string>
+		<string>airplane</string>
+	</array>
+	<key>liner, ocean liner</key>
+	<array>
+		<string>das Schiff, -e</string>
+		<string>корабль, м.</string>
+		<string>ship</string>
+	</array>
+	<key>schooner</key>
+	<array>
+		<string>das Schiff, -e</string>
+		<string>корабль, м.</string>
+		<string>ship</string>
+	</array>
+	<key>canoe</key>
+	<array>
+		<string>das Boot, -e</string>
+		<string>лодка, ж.</string>
+		<string>boat</string>
+	</array>
+	<key>speedboat</key>
+	<array>
+		<string>das Boot, -e</string>
+		<string>лодка, ж.</string>
+		<string>boat</string>
+	</array>
+	<key>traffic light, traffic signal, stoplight</key>
+	<array>
+		<string>die Ampel, -n</string>
+		<string>светофор, м.</string>
+		<string>traffic light</string>
+	</array>
+	<key>gas pump, gasoline pump, petrol pump, island dispenser</key>
+	<array>
+		<string>die Tankestelle, -n</string>
+		<string>заправочная станция, ж.</string>
+		<string>gas station</string>
+	</array>
+	<key>castle</key>
+	<array>
+		<string>das Schloss, &quot;-er</string>
+		<string>замок, м.</string>
+		<string>castle</string>
+	</array>
+	<key>cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM</key>
+	<array>
+		<string>der Geldautomat,-en</string>
+		<string>банкомат, м.</string>
+		<string>cash machine, ATM</string>
+	</array>
+	<key>menu</key>
+	<array>
+		<string>das Menü, -s</string>
+		<string>меню, с.</string>
+		<string>menu</string>
+	</array>
+	<key>pot bottle, soda bottle</key>
+	<array>
+		<string>die Dose, -n</string>
+		<string>жестяная / консервная банка, ж.</string>
+		<string>can</string>
+	</array>
+	<key>water bottle</key>
+	<array>
+		<string>die Flasche, -n</string>
+		<string>бутылка, ж.</string>
+		<string>bottle</string>
+	</array>
+	<key>coffe mug</key>
+	<array>
+		<string>die Tasse, -n</string>
+		<string>кружка, ж.</string>
+		<string>cup</string>
+	</array>
+	<key>cup</key>
+	<array>
+		<string>die Tasse, -n</string>
+		<string>кружка, ж.</string>
+		<string>cup</string>
+	</array>
+	<key>beer glass</key>
+	<array>
+		<string>das Glas, &quot;-er</string>
+		<string>стакан, м.</string>
+		<string>glass</string>
+	</array>
+	<key>coffepot</key>
+	<array>
+		<string>die Kaffekanne, -n</string>
+		<string>кофейник, м.</string>
+		<string>glass</string>
+	</array>
+	<key>mixing bowl</key>
+	<array>
+		<string>der Teller, -</string>
+		<string>тарелка, ж.</string>
+		<string>plate</string>
+	</array>
+	<key>plate</key>
+	<array>
+		<string>der Teller, -</string>
+		<string>тарелка, ж.</string>
+		<string>plate</string>
+	</array>
+	<key>ladle</key>
+	<array>
+		<string>der Löffel, -</string>
+		<string>ложка, ж.</string>
+		<string>spoon</string>
+	</array>
+	<key>spatula</key>
+	<array>
+		<string>die Gabel, -n</string>
+		<string>вилка, ж.</string>
+		<string>knife</string>
+	</array>
+	<key>cleaver, meat cleaver, chopper</key>
+	<array>
+		<string>das Messer, -</string>
+		<string>нож, м.</string>
+		<string>chopper, knife</string>
+	</array>
+	<key>letter opener, paper knife, paperknife</key>
+	<array>
+		<string>das Messer, -</string>
+		<string>нож, м.</string>
+		<string>chopper, knife</string>
+	</array>
+	<key>frying pan, frypan, skillet</key>
+	<array>
+		<string>die Pfanne, -n</string>
+		<string>сковорода, ж.</string>
+		<string>pan</string>
+	</array>
+	<key>wok</key>
+	<array>
+		<string>die Pfanne, -n</string>
+		<string>сковорода, ж.</string>
+		<string>pan</string>
+	</array>
+</dict>
+</plist>
