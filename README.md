@@ -2,6 +2,18 @@
   <img src="https://github.com/vlgk/Ocular_offline_dictionary/blob/master/1x1024.png" width="350"/>
 </p>
 
+<h1 align="center">Ocular Offline Dictionary</h1>
+
+<p align="center">
+<a href="https://itunes.apple.com/us/app/ocular-offline-dictionary/id1313959944?mt=8"><img src="https://github.com/vlgk/Ocular_offline_dictionary/blob/master/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" alt="Download on the App Store"/></a>
+</p>
+
+<p align="center">
+<a href="https://developer.apple.com/swift/"><img src="https://img.shields.io/badge/Swift-4.0-orange.svg?style=flat" alt="Swift"/></a>
+<img src="https://img.shields.io/badge/Platform-iOS%2011.0+-lightgrey.svg" alt="Platform: iOS">
+<a href="https://www.paypal.me/vgubkin/5"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg?style=flat" alt="Donate via PayPal"/></a>
+  
+</p>
 
 Mostly people are learning foreign words by rote being beyond the useful context: in a classroom, on the way etc. You have probably already noticed, that this approach brings poor outcomes and takes tons of time to memorise words.
 Just remember, how stupid and hard is it to learn fruits and vegetables names sitting in the classroom, but how easy it is to remember them in a garden or convenience store!
