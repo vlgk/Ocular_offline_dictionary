@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/vlgk/Ocular_offline_dictionary/blob/master/1x1024.png" width="350"/>
+</p>
+
+
 Mostly people are learning foreign words by rote being beyond the useful context: in a classroom, on the way etc. You have probably already noticed, that this approach brings poor outcomes and takes tons of time to memorise words.
 Just remember, how stupid and hard is it to learn fruits and vegetables names sitting in the classroom, but how easy it is to remember them in a garden or convenience store!
 
