@@ -15,6 +15,8 @@
   
 </p>
 
+## About
+
 Mostly people are learning foreign words by rote being beyond the useful context: in a classroom, on the way etc. You have probably already noticed, that this approach brings poor outcomes and takes tons of time to memorise words.
 Just remember, how stupid and hard is it to learn fruits and vegetables names sitting in the classroom, but how easy it is to remember them in a garden or convenience store!
 
@@ -23,14 +25,16 @@ Ocular Dictionary puts words' learning into a useful context where you can direc
 Ocular Dictionary is a simple camera-based app, that automatically detects objects and names them.
 It's so easy: open the app, choose languages you speak and learn, focus on the thing, get the word, and make screenshot to save or share.
 
-Ocular Dictionary features:
+## Ocular Dictionary features:
 - works offline;
 - detects more then 150 words from A1 level CEFR (Common European Framework of Reference for Languages);
-- is available in English, German, Russian, Arabic and Romanian;
-- provides English, German, Russian, Arabic and Romanian voice-over;
+- is available in English, German, Russian, Arabic, Romanian and Chinese;
+- provides English, German, Russian, Arabic, Romanian and Chinese voice-over;
 - indicates genders, articles and plural forms;
 - empowers native learning.
 
-App requires iOS 11 and later.
-
 Used frameworks: UIKit, AVKit, Vision, AVFoundation, Foundation
+
+Credentials:
+Icon pic made by Freepik (www.freepik.com) from www.flaticon.com.
+Thanks to EmojiOne (www.emojione.com) for providing free emoji icons.
